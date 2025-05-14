@@ -6,8 +6,19 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
+
+<!-- Hello world & repo setup -->
+<?php
     echo "Hello world!";
-    ?>
+    echo "<p>My name is mahak</p>";
+?>
+
+<!-- Learning variables -->
+<?php
+    $fname="Mahak";
+    $lname="Patel"
+    echo "<h1>My name is $fname $lname</h1>";
+?>
+
 </body>
 </html>
