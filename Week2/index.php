@@ -16,7 +16,7 @@
 <!-- Learning variables -->
 <?php
     $fname="Mahak";
-    $lname="Patel"
+    $lname="Patel";
     echo "<h1>My name is $fname $lname</h1>";
 ?>
 
