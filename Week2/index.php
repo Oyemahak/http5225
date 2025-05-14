@@ -20,5 +20,13 @@
     echo "<h1>My name is $fname $lname</h1>";
 ?>
 
+<?php
+$people = array('Mahak', 'Priyank', 'Rutul');
+$person['first'] = 'Mahak';
+$person['last'] = 'Patel';
+
+ echo "My name is $people[2]";
+?>
+
 </body>
 </html>
