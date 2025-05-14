@@ -22,8 +22,8 @@
 
 <?php
 $people = array('Mahak', 'Priyank', 'Rutul');
-$person['first'] = 'Mahak';
-$person['last'] = 'Patel';
+// $person['first'] = 'Mahak';
+// $person['last'] = 'Patel';
 
  echo "My name is $people[2]";
 ?>
